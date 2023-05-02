@@ -8,7 +8,7 @@
 	<title>mph</title>
 </head>
 <body>
-	<h4>Hyarel you are Great person </h4>
+	<h10>Hyarel you are Great person & intellijent </h10>
 	<c:if test="${not empty param.name}">
 		<p>Name: ${param.name}</p>
 	</c:if>
