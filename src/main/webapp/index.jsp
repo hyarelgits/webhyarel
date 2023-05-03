@@ -8,7 +8,7 @@
 	<title>mph</title>
 </head>
 <body>
-	<h5>Welcome into the devops essentials session </h5>
+	<h5>Welcome into the devops essentials session !!! Hyarel is your trainer</h5>
 	<c:if test="${not empty param.name}">
 		<p>Name: ${param.name}</p>
 	</c:if>
