@@ -8,7 +8,7 @@
 	<title>mph</title>
 </head>
 <body>
-	<h10>Hyarel you are Great person & intellijent </h10>
+	<h5>Welcome into the devops essentials session </h5>
 	<c:if test="${not empty param.name}">
 		<p>Name: ${param.name}</p>
 	</c:if>
